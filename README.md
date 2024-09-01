@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harish040120
+- 👋 Hi, I’m Arisu_04
 - 👀 I’m interested in AI&ML
 - 🌱 I’m currently learning B.Tech 
 - 📫 You can reach me at harish040120@gmail.com
