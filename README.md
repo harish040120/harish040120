@@ -17,20 +17,6 @@ Eager to gain hands-on experience through internships in software development or
 
 ---
 
-## 🎓 Education
-
-**PSG Institute of Technology and Applied Research, Coimbatore**  
-B.Tech in Computer Science and Business Systems  
-_Aug 2023 – May 2027 (Expected)_  
-**CGPA:** 8.45
-
-**Kanchi Sri Sankara School, Chennai**  
-Higher Secondary Education  
-_Jun 2011 – Apr 2023_  
-**Percentage:** 97.5%
-
----
-
 ## 💻 Projects
 
 ### DocuTalk – AI-Powered PDF Chatbot
@@ -40,16 +26,6 @@ _Jun 2011 – Apr 2023_
 ### Aadhaar Face Authentication System – SEAM (SIH 2024 Finalist)
 - Browser extension using React, face-api.js, and Flask.
 - Real-time facial authentication with anti-spoofing, ONNX descriptors, and Azure backend.
-
----
-
-## 📜 Patent
-
-**Self-Assisted Reading and Scribing (SARS) System**  
-- **Publication Number:** 15/2025  
-- **Publication Date:** 11/04/2025  
-- **Application Number:** 202341032601  
-- **Field of Invention:** Computer Science
 
 ---
 
@@ -65,20 +41,3 @@ _Jun 2011 – Apr 2023_
 **Technologies:** Machine Learning, Linux, Cloud Computing, Flask, React, OpenCV  
 **Tools:** Jupyter Notebook, PostgreSQL, GitHub, Hugging Face, VS Code
 
----
-
-## 🧾 Certifications
-- Google Cloud Computing (NPTEL) – 71%  
-- OOPs in Python – Great Learning Academy – 100%
-
----
-
-## 🤝 Volunteering
-**National Service Scheme (NSS) Volunteer**  
-_Sep 2023 – Present_
-
----
-
-## 🌐 Languages & Interests
-**Languages:** English, Tamil  
-**Hobbies:** Cycling, Table Tennis
