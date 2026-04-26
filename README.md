@@ -11,7 +11,7 @@
 
 ### `arisu_04` · Explorer · Developer · Ideator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+LLM+Researcher+%7C+Developer;Dissecting+LLMs+one+paper+at+a+time.;Prompt+Engineering+%2B+System+Design+%3D+my+stack.;AI+Agents+that+actually+do+something+useful.;Reading+research+papers+so+you+don't+have+to.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+LLM+Researcher+%7C+Developer;Dissecting+LLMs+one+paper+at+a+time.;Reading+research+papers+so+you+don't+have+to.)](https://git.io/typing-svg)
 
 <br/>
 
